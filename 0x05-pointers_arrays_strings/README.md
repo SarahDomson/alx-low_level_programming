@@ -1,1 +1,1 @@
-C, arrays and pointers
+C - Pointers, arrays and strings
